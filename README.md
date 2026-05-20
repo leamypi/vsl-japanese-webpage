@@ -1,2 +1,0 @@
-# vsl-japanese-webpage
-
