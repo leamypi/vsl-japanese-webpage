@@ -1,1 +1,5 @@
 site_name: My Docs
+site_name: VSL Japanese Anki Guide
+site_url: https://leamypi.github.io/vsl-japanese-webpage/
+theme:
+  name: material
